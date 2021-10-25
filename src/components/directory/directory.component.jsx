@@ -30,7 +30,7 @@ class Directory extends React.Component {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://media.istockphoto.com/photos/closeup-of-successful-businesswoman-picture-id1285828645?k=20&m=1285828645&s=612x612&w=0&h=4DBY42RL9N3EgDfqmP4IrJctnISqNmdaZCDhdJh-ZDU=',
           size: 'large',
           id: 4,
           linkUrl: ''
